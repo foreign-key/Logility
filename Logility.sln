@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logility", "Logility\Logility.csproj", "{BF25095F-EA6C-4E99-BC4D-102FEA8FE267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF25095F-EA6C-4E99-BC4D-102FEA8FE267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF25095F-EA6C-4E99-BC4D-102FEA8FE267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF25095F-EA6C-4E99-BC4D-102FEA8FE267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF25095F-EA6C-4E99-BC4D-102FEA8FE267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93830685-2912-4D91-91C6-01315B887230}
+	EndGlobalSection
+EndGlobal
